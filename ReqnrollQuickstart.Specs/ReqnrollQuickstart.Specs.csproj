@@ -23,4 +23,12 @@
     <None Update="**/.gitkeep" Visible="false" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Raphael Wong\source\repos\Calculator\ReqnrollQuickstart.Specs\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Raphael Wong\source\repos\Calculator\ReqnrollQuickstart.Specs\.editorconfig" />
+  </ItemGroup>
+
 </Project>
